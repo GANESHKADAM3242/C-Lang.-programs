@@ -1,4 +1,6 @@
 
+// This program for Single Parent having Multiple child's 
+
 #include <stdio.h>
 
 int main()
