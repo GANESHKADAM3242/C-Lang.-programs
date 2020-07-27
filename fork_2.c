@@ -1,3 +1,11 @@
+//*
+//    Parent: 5269   PPID: 5264                                                                                                       
+//    child [1]: 5270   PPID: 5269                                                                                                    
+//    child [2]: 5271   PPID: 5270                                                                                                    
+//    child [3]: 5272   PPID: 5271  
+*//
+
+
 
 #include <stdio.h>
 
