@@ -1,5 +1,9 @@
 
 // This program for Single Parent having Multiple child's 
+// Example.  PPID=2000
+// child_1 PID : 2001 PPID: 2000
+// child_2 PID : 2002 PPID: 2000
+// child_3 PID : 2003 PPID: 2000
 
 #include <stdio.h>
 
