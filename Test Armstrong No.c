@@ -1,3 +1,7 @@
+// Armstrong No's : 0 1 153  370  371   407
+//eg.   how to Test:  153   
+//    no of digits is 3
+//  so....  (1*1*1) + (5*5*5) + (3*3*3) = 153
 
 #include <stdio.h>
 
