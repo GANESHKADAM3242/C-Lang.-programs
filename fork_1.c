@@ -4,6 +4,7 @@
 // child_1 PID : 2001 PPID: 2000
 // child_2 PID : 2002 PPID: 2000
 // child_3 PID : 2003 PPID: 2000
+// wait(); wait() is system call in UNIX which suspends execution of the current process until one of its children terminates
 
 #include <stdio.h>
 
